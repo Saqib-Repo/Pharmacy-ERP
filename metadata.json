@@ -1,0 +1,6 @@
+{
+  "name": "PharmaPulse ERP",
+  "description": "Commercial Pharmacy ERP & Management System with FEFO inventory, POS, and Google Sheets database integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
